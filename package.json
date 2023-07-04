@@ -2,7 +2,7 @@
   "name": "musicstore",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://SarthakAggarwal19032001.github.io/Melodies",
+  "homepage": "http://sarthakaggarwal19032001.github.io/melodies",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
